@@ -37,9 +37,9 @@ image_info = ImageInfo(1024, 768, body_text, css_text, './result.png', False)
 
 ### Export | Exportar
 
-Call export method with the image_info:
+Call export method with the image_info and image will be created in the destination file path:
 
-Llamar el método de exportar con image_info:
+Llamar el método de exportar con image_info y la imagen se creará en la ruta del archivo destino:
 
 ```
 exporter = Exporter()
