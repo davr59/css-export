@@ -7,6 +7,15 @@ Método en Python 3 para consumir HCTI API que convierte HTML/CSS a Imagen. Refe
 
 ## Quickstart | Inicio rápido
 
+### Install dependencies | Instalar dependencias
+
+```
+pip3 install requests
+pip3 install Pillow
+```
+
+### Set API Key | Establecer API Key
+
 Set your API Key information in config.ini:
 
 Establecer tu información API Key en config.ini:
