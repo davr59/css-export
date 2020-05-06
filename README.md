@@ -1,9 +1,9 @@
 # css-export
 Export CSS to PNG image | Exportar CSS a PNG imagen.
 
-Method to consume HCTI API that converts HTML/CSS to Image. Reference: [HTML/CSS to Image API](https://htmlcsstoimage.com/).
+Python3 Method to consume HCTI API that converts HTML/CSS to Image. Reference: [HTML/CSS to Image API](https://htmlcsstoimage.com/).
 
-Método para consumir HCTI API que convierte HTML/CSS a Imagen. Referencia: [HTML/CSS to Image API](https://htmlcsstoimage.com/).
+Método en Python 3 para consumir HCTI API que convierte HTML/CSS a Imagen. Referencia: [HTML/CSS to Image API](https://htmlcsstoimage.com/).
 
 ## Quickstart | Inicio rápido
 
