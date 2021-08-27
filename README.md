@@ -1,4 +1,4 @@
-# Export CSS to PNG image | Exportar CSS a PNG imagen
+# export css to png image | exportar css a png imagen
 
 Python3 Method to consume HCTI API that converts HTML/CSS to Image.
 
